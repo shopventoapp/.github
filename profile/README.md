@@ -6,7 +6,7 @@
 
 <p align="center">
   One system for bookable events, vouchers, shop and goods.<br>
-  <a href="https://shopvento.de">shopvento.de</a> · <a href="https://shopvento.de/entwickler">Developers</a> · <a href="https://shopvento.de/kontakt">Contact</a>
+  <a href="https://shopvento.de">shopvento.de</a> · <a href="https://shopvento.de/dev">Developer</a> · <a href="https://shopvento.de/kontakt">Contact</a>
 </p>
 
 ---
